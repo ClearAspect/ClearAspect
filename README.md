@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **ClearAspect/ClearAspect** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 I’m currently working on 2nd year Computer Science at WLU
+
+🌱 I’m currently learning Zig
+
+📫 How to reach me: Maso2187@mylaurier.ca
+
+
+# GitHub Statistics:
+
+![ClearAspect's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClearAspect&show_icons=true&theme=catppuccin_mocha)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClearAspect&layout=compact&show_icons=true&theme=catppuccin_mocha)
