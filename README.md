@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me: Maso2187@mylaurier.ca
 
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,zig,ts,git,neovim)](https://skillicons.dev)
 
 # GitHub Statistics:
 
