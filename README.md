@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on 2nd year Computer Science at WLU
 
-🌱 I’m currently learning Zig
+🌱 I’m currently learning C
 
 📫 How to reach me: Maso2187@mylaurier.ca
 
