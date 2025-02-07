@@ -25,6 +25,6 @@ Here are some ideas to get you started:
 
 # GitHub Statistics:
 
-![ClearAspect's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClearAspect&show_icons=true&theme=catppuccin_mocha)
+![ClearAspect's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClearAspect&show_icons=true&theme=default)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClearAspect&layout=compact&show_icons=true&theme=catppuccin_mocha)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClearAspect&layout=compact&show_icons=true&theme=default)
