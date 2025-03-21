@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 
 🔭 I’m currently working on 2nd year Computer Science at WLU
 
-🌱 I’m currently learning C
+🌱 I’m currently learning Rust
 
 📫 How to reach me: Maso2187@mylaurier.ca
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,ts,git,neovim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,java,c,rust,ts,git,neovim)](https://skillicons.dev)
 
 # GitHub Statistics:
 
