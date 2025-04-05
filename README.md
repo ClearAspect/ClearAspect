@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 
 [![My Skills](https://skillicons.dev/icons?i=python,java,c,rust,ts,git,neovim)](https://skillicons.dev)
 
+My class assignments are private. Do not use my work to cheat.
+
 # GitHub Statistics:
 
 ![ClearAspect's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClearAspect&show_icons=true&theme=default)
