@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 🌱 I’m currently learning Rust
 
-[![My Skills](https://skillicons.dev/icons?i=python,java,c,rust,ts,git,neovim,nix)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nix,neovim,c,rust,java,python,ts)](https://skillicons.dev)
 
 My class assignments are private. Do not use my work to cheat.
 
