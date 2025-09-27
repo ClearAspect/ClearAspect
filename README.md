@@ -18,13 +18,11 @@ Here are some ideas to get you started:
 
 -->
 
-🔭 I’m currently working on 2nd year Computer Science
+🔭 I’m currently working on my 3rd year in Computer Science
 
 🌱 I’m currently learning Rust
 
 [![My Skills](https://skillicons.dev/icons?i=nix,neovim,c,rust,java,python,ts)](https://skillicons.dev)
-
-My class assignments are private. Do not use my work to cheat.
 
 # GitHub Statistics:
 
