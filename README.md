@@ -18,14 +18,4 @@ Here are some ideas to get you started:
 
 -->
 
-🔭 I’m currently working on my 3rd year in Computer Science
-
-🌱 I’m currently learning Rust
-
-[![My Skills](https://skillicons.dev/icons?i=nix,neovim,c,rust,java,python,ts)](https://skillicons.dev)
-
-# GitHub Statistics:
-
-![ClearAspect's GitHub stats](https://github-readme-stats.vercel.app/api?username=ClearAspect&show_icons=true&theme=default)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ClearAspect&layout=compact&show_icons=true&theme=default)
+I'm a Computer Science student in my 3rd year, focused on getting better at building things.
